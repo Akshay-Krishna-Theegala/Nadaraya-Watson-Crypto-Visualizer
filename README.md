@@ -6,6 +6,8 @@ A Python-based quantitative finance toolkit that fetches live/historical OHLCV c
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Animation-orange)
 ![Binance API](https://img.shields.io/badge/Binance-REST%20API-yellow)
 
+<img width="1920" height="1025" alt="2026-10-10 (2)" src="https://github.com/user-attachments/assets/708a3120-47ec-4fc9-96ab-95c2a3bcec03" />
+
 ---
 
 ## 🚀 Key Features
